@@ -2,10 +2,10 @@
 A simple and intuitive web-based screen recorder that allows users to capture their screen and record videos directly from their browser. This project leverages HTML, CSS, and JavaScript, providing a responsive and visually appealing user interface.
 
 # Features
-Easy Recording: Start and stop screen recordings with a single click.
-Video Playback: View recorded videos using a built-in video player.
-Responsive Design: Optimized for both desktop and mobile devices.
-Interactive UI: Smooth animations and hover effects for an enhanced user experience.
+ 1. Easy Recording: Start and stop screen recordings with a single click.
+ 2. Video Playback: View recorded videos using a built-in video player.
+ 3. Responsive Design: Optimized for both desktop and mobile devices.
+ 4. Interactive UI: Smooth animations and hover effects for an enhanced user experience.
 
 # Technologies Used
  1. HTML
